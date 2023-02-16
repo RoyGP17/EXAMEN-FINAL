@@ -1,3 +1,9 @@
+'''2. Crea un programa en Python que mantenga un historial de tareas pendientes.
+El programa debe permitir al usuario agregar una tarea al inicio de la lista,
+eliminar una tarea del final de la lista y mostrar todas las tareas en la lista en orden inverso al que se agregaron.
+Además, el programa debe contar la cantidad total de tareas en la lista y mostrar ese número al usuario.'''
+
+print("========== Programa Tareas ==========")
 # Definimos la clase Nodo para representar los nodos de la pila
 class Nodo:
     def __init__(self, dato):

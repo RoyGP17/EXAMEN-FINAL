@@ -1,4 +1,8 @@
+'''1. Crea un programa en Python que simule una lista de compras.
+El programa debe permitir al usuario agregar productos al final de la lista,
+eliminar productos del inicio de la lista y mostrar todos los productos en la lista en orden de compra.'''
 
+print("========== Programa Compras ==========")
 # Definimos la clase Nodo para representar los nodos de la lista simple
 class Nodo:
     def __init__(self, dato):
